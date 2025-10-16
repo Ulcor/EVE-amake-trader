@@ -22,6 +22,12 @@ Planet type, then:
 2) Time left for a character-> planet-> T1 components volume
 3) Projected output vs real output
 
+#### Blacksmith
+Checks jobs:
+1) Industry. Available materials, runs
+2) Science. Cores, runs
+3) Chem. Station availability! Materials, logistics, jobs
+
 #### Amake trader
 Checks the market value of items
 Croston, Holt-Winters and similar models for forecasting/investing
