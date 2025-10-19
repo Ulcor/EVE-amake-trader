@@ -27,14 +27,19 @@ Checks jobs:
 1) Industry. Available materials, runs
 2) Science. Cores, runs
 3) Chem. Station availability! Materials, logistics, jobs
+4) WTB list - for items and cores
 
 #### Amake trader
-Checks the market value of items
-Croston, Holt-Winters and similar models for forecasting/investing
+1) Checks the market value of items
+2) Your orders - check if first sale/buy
 
 #### Hauler
-Gets data from Amake trader and create the best value for hub 1->hub 2, items for a selected hauler
+1) Gets data from Amake trader and create the best trip value for hub 1->hub 2. Items, price_1 price_2 - tax * volume
+
+### Coin keeper
+1) Track money flow. Items value, wallet value
+2Croston, Holt-Winters and similar models for forecasting/investing
 
 ----
 ## How to use the app:
-fill later
+Automate EvE time
