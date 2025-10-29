@@ -13,7 +13,9 @@ Finish esi.py with new app creds
 ## App logic
 
 ##### Town hall
-Asks all denizens their primary functions
+1) Asks all denizens their primary functions 
+2) Daily, weekly 
+3) Connect different denizens between them
 
 ##### Peasant
 Checks planetary industry <br>
@@ -29,16 +31,22 @@ Checks jobs:
 3) Chem. Station availability! Materials, logistics, jobs
 4) WTB list - for items and cores
 
-#### Amake trader
+#### Trader
 1) Checks the market value of items
-2) Your orders - check if first sale/buy
+2) Your orders - check if first sale/buy 
+3) Croston, Holt-Winters and similar models for forecasting/investing
 
 #### Hauler
 1) Gets data from Amake trader and create the best trip value for hub 1->hub 2. Items, price_1 price_2 - tax * volume
 
-### Coin keeper
+#### Coin keeper
 1) Track money flow. Items value, wallet value
-2Croston, Holt-Winters and similar models for forecasting/investing
+2) All income vs spending
+3) PLEX goals
+
+#### Scribe
+1) Write denizens activity into a database (free tier but with backup)
+2) Select data from database on request from denizens
 
 ----
 ## How to use the app:
